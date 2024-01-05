@@ -78,7 +78,7 @@
     <![endif]-->
     <style>
         body {
-            background-image: url('./assets/img/pngtree-falling-3d-graduation-caps-on-white-background-celebrating-academic-success-and-picture-image_4041038.jpg'); /* Replace 'your-image-url.jpg' with the actual URL or path to your image */
+            background-image: url('./assets/img/pngtree-falling-3d-graduation-caps-on-white-background-celebrating-academic-success-and-picture-image_4041038.jpg'); 
             background-position: center center;
             background-size: cover;
             background-repeat: no-repeat;

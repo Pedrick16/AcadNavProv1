@@ -72,7 +72,7 @@
     <![endif]-->
     
 </head>
-<body>
+<body style="background-color: #f8fafd;">
 
   <?php include 'header.php'; ?>
 
@@ -83,7 +83,7 @@
     </div>
     
 
-    <div class="edit-form box-left clearfix">
+    <div class="edit-form box-left clearfix"  style=" box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);   background-color: white;">
 
       <?php 
         if(isset($_SESSION['errprompt'])) {
@@ -112,7 +112,7 @@
 
         <div class="form-footer">
           <a href="profile.php">Go back</a>
-          <input class="btn btn-primary" type="submit" name="update" value="Update Password">
+          <input class="btn btn-success" type="submit" name="update" value="Update Password">
         </div>
         
 
